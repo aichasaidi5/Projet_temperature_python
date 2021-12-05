@@ -15,4 +15,4 @@ elif 20 <= data3 <= 25:
 	print("La tepmperature est "+data3+"  deg C, le bebe peut avoir froid")
 
 else:
-	print("La température n'est pas acceptable pour le bébé")
+	print("La température n'est pas acceptable pour le bebe")
